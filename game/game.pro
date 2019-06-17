@@ -84,4 +84,13 @@ DISTFILES += \
     qml/entities/TiledEntityBase.qml \
     qml/levels/LevelBase.qml \
     qml/Main.qml \
-    qml/GameScene.qml
+    qml/GameScene.qml \
+    assets/felgo-logo.png \
+    assets/felgo-logo.png \
+    assets/background/bg.jpg \
+    assets/felgo-logo.png \
+    qml/entities/ResetSensor.qml \
+    qml/levels/Level1.qml \
+    assets/player/stand.bmp \
+    assets/background/grass.bmp \
+    assets/player/bullet.bmp
